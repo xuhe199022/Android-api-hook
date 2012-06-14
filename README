@@ -1,0 +1,7 @@
+Because the source code of Android is too large, I just submit the application code.
+
+This application is a service running in the back to watch the behavior which use the message and network function.
+
+When the app catch some behavior, it will show a toast to user.
+
+(NOTE: There is no method to stop the behavior in current version)
